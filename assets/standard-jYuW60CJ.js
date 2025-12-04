@@ -1,1 +1,0 @@
-import{P as d}from"./index-CBERRbij.js";function a(t){return d({url:"/product/standard-photo/list",method:"get",params:t})}function o(t){return d({url:"/product/standard-photo/add-template",method:"post",data:t})}function e(t){return d({url:"/product/standard-photo/edit-template",method:"put",data:t})}export{o as a,e,a as g};

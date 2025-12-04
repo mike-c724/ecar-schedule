@@ -1,1 +1,0 @@
-import{_ as o,g as c,o as n,c as s,h as t,f as a}from"./index-CBERRbij.js";const r={};function _(i,l){const e=c("svg-icon");return n(),s("div",null,[t(" 表单构建 "),a(e,{"icon-class":"build"})])}const f=o(r,[["render",_]]);export{f as default};
